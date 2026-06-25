@@ -1,0 +1,109 @@
+{
+  "intro": {
+    "eyebrow": "My Portfolio",
+    "cta": "View portfolio"
+  },
+  "nav": {
+    "services": "SERVICES",
+    "experience": "EXPERIENCE",
+    "projects": "PROJECTS",
+    "about": "ABOUT",
+    "contact": "CONTACT"
+  },
+  "hero": {
+    "eyebrow": "Full Stack Engineer",
+    "heading1": "Building",
+    "heading2": "scalable solutions",
+    "description": "Web applications, AI-powered tools, and automation systems built with modern technologies.",
+    "resume": "View Resume",
+    "download": "Download CV"
+  },
+  "about": {
+    "title1": "ABOUT",
+    "title2": "ME",
+    "role1": "PROGRAMMER",
+    "role2": "DEVELOPER",
+    "p1": "Computer Engineer graduated from ESI-SBA with a specialization in Information Systems and Web. Passionate about creating innovative user experiences and solving complex problems.",
+    "p2": "My experience spans from immersive frontend development to building robust backend APIs, with particular expertise in AI integration and process automation.",
+    "p3": "Creating great web experiences through clean code, thoughtful design, and user-centric development is at the heart of everything I do."
+  },
+  
+  "experience": {
+    "title1": "MY",
+    "title2": "EXPERIENCE",
+    "items": [
+      {
+        "period": "Aug 2023 - Sep 2023",
+        "position": "Intern - Groupe Hasnaoui",
+        "description": "Analysis of information systems and business processes. Identification of automation and digitalization opportunities for workflows in an industrial environment.",
+        "badges": "Systems Analysis,Process Automation,Digital Transformation"
+      },
+      {
+        "period": "Ongoing",
+        "position": "Full Stack Engineer - Personal Projects",
+        "description": "Development of complete Full Stack solutions. Specialization in React, Next.js, Django with AI integration and process automation.",
+        "badges": "React,Next.js,Django,AI/ML,Python"
+      }
+    ]
+  },
+  "projects": {
+    "title1": "Featured",
+    "title2": "Projects",
+    "portfolio": "Portfolio",
+    "type_fullstack": "Full Stack",
+    "type_mobile": "Mobile",
+    "code": "Code",
+    "demo": "Demo",
+    "items": [
+      {
+        "title": "NeuroVIA - Medical AI Platform",
+        "description": "Full stack platform for early detection of Alzheimer and Parkinson diseases using AI. Features interactive dashboards, secure patient management, secure file uploads, and subscription system."
+      },
+      {
+        "title": "Daresni - E-learning Platform",
+        "description": "Online learning platform for teachers and students with real-time interaction. Microservices architecture with payment module and independent services."
+      },
+      {
+        "title": "Student Valley - Project Management",
+        "description": "Academic project management system for startups and patents with real-time tracking and multi-platform support."
+      }
+    ]
+  },
+  "skills": {
+    "subtitle": "Technical profile",
+    "title1": "My",
+    "title2": "stack",
+    "additional": "Additional expertise"
+  },
+  "contact": {
+    "title1": "LET'S TALK ABOUT",
+    "title2": "YOUR IDEA",
+    "email_label": "Email",
+    "whatsapp_label": "WhatsApp",
+    "location_label": "Location",
+    "location_value": "Sidi Bel Abbès, Algeria",
+    "form_email": "Email",
+    "form_message": "Message",
+    "form_placeholder_message": "Tell me about your project...",
+    "form_submit": "SEND MESSAGE"
+  },
+  "footer": {
+    "tagline1": "LET'S BUILD",
+    "tagline2": "THE FUTURE",
+    "copyright": "© Wafaa Bekkhoucha. All rights reserved.",
+    "back_to_top": "BACK TO TOP",
+    "marquee": "BUILD,SHIP,SCALE"
+  },
+
+
+ "services": {
+    "title1": "MY",
+    "title2": "SERVICES",
+    "subtitle": "User-friendly interfaces don't happen by chance, they are built with intention and expertise.",
+    "items": [
+      { "number": "01", "title": "Web Development", "description": "Modern Websites, Motion & Animations with React & Next.js" },
+      { "number": "02", "title": "Advanced Solutions", "description": "Progressive Web Apps, Complex Integrations & AI Features" },
+      { "number": "03", "title": "Code Optimization", "description": "Modern Frameworks, Speed Optimization & Automation" }
+    ]
+  }
+}

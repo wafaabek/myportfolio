@@ -1,0 +1,108 @@
+{
+  "intro": {
+    "eyebrow": "Mon Portfolio",
+    "cta": "Voir le portfolio"
+  },
+  "nav": {
+    "services": "SERVICES",
+    "experience": "EXPÉRIENCE",
+    "projects": "PROJETS",
+    "about": "À PROPOS",
+    "contact": "CONTACT"
+  },
+  "hero": {
+    "eyebrow": "Ingénieure Full Stack",
+    "heading1": "Construire des",
+    "heading2": "solutions scalables",
+    "description": "Applications web, outils IA et systèmes d'automatisation construits avec les technologies modernes.",
+    "resume": "Voir le CV",
+    "download": "Télécharger le CV"
+  },
+  "about": {
+    "title1": "À PROPOS",
+    "title2": "DE MOI",
+    "role1": "PROGRAMMEUSE",
+    "role2": "DÉVELOPPEUSE",
+    "p1": "Ingénieure en Informatique diplômée de l'ESI-SBA avec spécialisation en Systèmes d'Information et Web. Passionnée par la création d'expériences utilisateur innovantes et la résolution de problèmes complexes.",
+    "p2": "Mon expérience s'étend du développement frontend immersif à la création d'APIs backend robustes, avec une expertise particulière en intégration d'IA et automatisation des processus.",
+    "p3": "Créer de grandes expériences web grâce à un code propre, un design réfléchi et un développement centré sur l'utilisateur est au cœur de tout ce que je fais."
+  },
+  
+  "experience": {
+    "title1": "MON",
+    "title2": "EXPÉRIENCE",
+    "items": [
+      {
+        "period": "Août 2023 - Sep 2023",
+        "position": "Stagiaire - Groupe Hasnaoui",
+        "description": "Analyse des systèmes d'information et des processus métier. Identification d'opportunités d'automatisation et de digitalisation des flux de travail dans un environnement industriel.",
+        "badges": "Analyse Systèmes,Automatisation,Transformation Digitale"
+      },
+      {
+        "period": "En cours",
+        "position": "Ingénieure Full Stack - Projets Personnels",
+        "description": "Développement de solutions complètes en Full Stack. Spécialisation en React, Next.js, Django avec intégration d'IA et automatisation de processus.",
+        "badges": "React,Next.js,Django,IA/ML,Python"
+      }
+    ]
+  },
+  "projects": {
+    "title1": "Projets",
+    "title2": "Sélectionnés",
+    "portfolio": "Portfolio",
+    "type_fullstack": "Full Stack",
+    "type_mobile": "Mobile",
+    "code": "Code",
+    "demo": "Démo",
+    "items": [
+      {
+        "title": "NeuroVIA - Plateforme IA Médicale",
+        "description": "Plateforme full stack pour la détection précoce des maladies d'Alzheimer et Parkinson par IA. Tableaux de bord interactifs, gestion sécurisée des patients et système d'abonnement."
+      },
+      {
+        "title": "Daresni - Plateforme E-learning",
+        "description": "Plateforme d'apprentissage en ligne pour enseignants et étudiants avec interaction en temps réel. Architecture microservices avec module de paiement et services indépendants."
+      },
+      {
+        "title": "Student Valley - Gestion de Projets",
+        "description": "Système de gestion de projets académiques pour startups et brevets avec suivi en temps réel et support multi-plateforme."
+      }
+    ]
+  },
+  "skills": {
+    "subtitle": "Profil technique",
+    "title1": "Mon",
+    "title2": "stack",
+    "additional": "Expertise additionnelle"
+  },
+  "contact": {
+    "title1": "PARLONS DE",
+    "title2": "VOTRE IDÉE",
+    "email_label": "Email",
+    "whatsapp_label": "WhatsApp",
+    "location_label": "Localisation",
+    "location_value": "Sidi Bel Abbès, Algérie",
+    "form_email": "Email",
+    "form_message": "Message",
+    "form_placeholder_message": "Parlez-moi de votre projet...",
+    "form_submit": "ENVOYER"
+  },
+  "footer": {
+    "tagline1": "CONSTRUISONS",
+    "tagline2": "L'AVENIR",
+    "copyright": "©Wafaa Bekkhoucha. Tous droits réservés.",
+    "back_to_top": "HAUT DE PAGE",
+    "marquee": "CONSTRUIRE,LIVRER,SCALER"
+  },
+   "services": {
+    "title1": "MES",
+    "title2": "SERVICES",
+    "subtitle": "Les interfaces conviviales ne sont pas le fruit du hasard, elles sont construites avec intention et expertise.",
+    "items": [
+      { "number": "01", "title": "Développement Web", "description": "Sites modernes, animations et motion avec React & Next.js" },
+      { "number": "02", "title": "Solutions Avancées", "description": "PWA, intégrations complexes et fonctionnalités IA" },
+      { "number": "03", "title": "Optimisation", "description": "Frameworks modernes, optimisation des performances & automatisation" }
+    ]
+  }
+
+}
