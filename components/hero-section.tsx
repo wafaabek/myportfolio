@@ -41,9 +41,8 @@ export function HeroSection() {
             >
               {t('hero.heading1')}{" "}
               <span className="text-transparent bg-clip-text bg-gradient-to-r from-cyan-300 to-cyan-500">
-                scalable
-              </span>
-              <br />{t('hero.heading2')}
+                <br />{t('hero.heading2')}
+               </span>
             </motion.h1>
 
             <motion.p
